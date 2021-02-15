@@ -26,7 +26,7 @@ public class CardTrick {
         
         Random random = new Random();
         
-        luckyCard = new Card; // luckyCard
+        //luckyCard = new Card; // Code does not compile
         
         for (int i=0; i<magicHand.length; i++)
         {
