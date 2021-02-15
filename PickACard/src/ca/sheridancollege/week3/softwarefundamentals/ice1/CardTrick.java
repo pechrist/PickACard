@@ -26,7 +26,7 @@ public class CardTrick {
         
         Random random = new Random();
         
-        luckyCard = new Card; // Hard Coded luckyCard
+        luckyCard = new Card; // luckyCard
         
         for (int i=0; i<magicHand.length; i++)
         {
